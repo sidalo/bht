@@ -12,7 +12,6 @@ i wrote bht on Linux with ksh93, so it requires the following to run:
 
 along with a few standard Unix utilities like: mktemp, grep, awk, find, tail, mailx, ps, mkdir, mv, id.
 
-
 # HOW TO USE
 first, create a directory to store your test data:
 ```
