@@ -95,7 +95,7 @@ function show_status {
 }
     
 #-----------------------------------------------------------------------------
-# description: terminate all running badblocks tests
+# description: terminate all running badblocks tests 
 # inputs: $1=path to data directory
 # outputs: print termination message to stdout
 # return: 0==success
